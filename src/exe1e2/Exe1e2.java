@@ -1,7 +1,9 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+tamanho 400 de altura por 200 de largura
+quando o botão para fechar a janela é clicado o programa termina
+Fazer uma classe que seja filha de JFrame.
+
+Ao criar um objeto desta classe uma janela deve ser criada com as mesmas características do exercício anterior.
  */
 package exe1e2;
 
