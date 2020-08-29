@@ -5,17 +5,17 @@
  */
 package exe1e2;
 
+import javax.swing.JFrame;
+
 /**
  *
  * @author sandy
  */
-public class Exe1e2 {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-       new Janela();
+public class Janela extends JFrame{
+    public Janela(){
+        this.setSize(400,200);
+        this.setVisible(true);
+        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     }
     
 }
